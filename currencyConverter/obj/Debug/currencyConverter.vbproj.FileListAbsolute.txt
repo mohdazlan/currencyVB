@@ -1,0 +1,11 @@
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\bin\Debug\currencyConverter.exe.config
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\bin\Debug\currencyConverter.exe
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\bin\Debug\currencyConverter.pdb
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\bin\Debug\currencyConverter.xml
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.vbprojResolveAssemblyReference.cache
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.Form1.resources
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.Resources.resources
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.vbproj.GenerateResource.Cache
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.exe
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.xml
+c:\users\azlan\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.pdb
